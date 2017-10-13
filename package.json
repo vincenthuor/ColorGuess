@@ -1,22 +1,8 @@
-{
-    "name": "colorguess",
-    "version": "1.0.0",
-    "description": "",
-    "main": "colorGame.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/vincenthuor/ColorGuess.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/vincenthuor/ColorGuess/issues"
-    },
-    "homepage": "https://github.com/vincenthuor/ColorGuess#readme",
-    "scripts": {
-        "start": "harp server --port $PORT"
-    },
-    "dependencies": {
-        "harp": "*"
-    }
-}
+   {
+       "name": "colorguess",
+       "version": "1.0.0",
+       "description": "A Harp App on Heroku",
+       "dependencies": {
+           "harp": "*"
+       }
+   }
